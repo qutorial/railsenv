@@ -1,0 +1,5 @@
+development:
+  database: dev
+
+test:
+  database: test
